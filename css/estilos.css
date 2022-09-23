@@ -37,5 +37,10 @@ body {
 
 footer {
   padding: 0.3em 0.5em;
-  background-color:aqua;  
+  background-color:aqua;
+  color: black;
+  text-align:center;
+  font-weight: bold; 
+  width: 500px;
+  margin: 0 auto; 
 }
